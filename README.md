@@ -20,7 +20,7 @@
 
 # Bonjour, je suis Djabir ZERGOUN <a href="https://github.com/tusharb331"> <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"> </a>
 
-### Ingénieur logiciel | Backend & Systèmes IA | Passionné de technologie
+### Comptable principal | Backend & Systèmes IA | Passionné de technologie
 
 ---
 
@@ -32,7 +32,7 @@
 
 Je suis **Ingénieur logiciel**, avec une expérience pratique dans le **développement Backend, les systèmes Full-Stack et les applications basées sur l'intelligence artificielle**.
 
-* 💼 Je travaille actuellement en tant qu'**Ingénieur logiciel**.
+* 💼 Je travaille actuellement en tant qu'**Comptable Principal**.
 
 * 🧠 Je me concentre sur la conception de **systèmes Backend évolutifs, d'API et de solutions IA / agentiques**.
 
