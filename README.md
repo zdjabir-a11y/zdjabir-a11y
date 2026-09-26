@@ -1,6 +1,3 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<img src="assets/banner.png" />
-
 <!-- Quote -->
 <a href="https://github.com/tusharb331"> 
     <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" /> 
