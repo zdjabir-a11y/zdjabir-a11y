@@ -16,7 +16,7 @@
     <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" /> 
 </a>
 
-# Hi, I'm Tushar Bansal <a href= "https://github.com/tusharb331"> <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"> </a> 
+# Hi, I'm Djabir ZERGOUN <a href= "https://github.com/tusharb331"> <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"> </a> 
 ### Software Engineer | Backend & AI Systems | Tech Enthusiast
 
 ---
